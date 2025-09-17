@@ -10,22 +10,9 @@
 		297047B82E7B476C00F59F71 /* MosquePedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MosquePedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		297047CA2E7B476E00F59F71 /* Exceptions for "MosquePedia" folder in "MosquePedia" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 297047B72E7B476C00F59F71 /* MosquePedia */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		297047BA2E7B476C00F59F71 /* MosquePedia */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				297047CA2E7B476E00F59F71 /* Exceptions for "MosquePedia" folder in "MosquePedia" target */,
-			);
 			path = MosquePedia;
 			sourceTree = "<group>";
 		};
